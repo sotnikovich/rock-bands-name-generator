@@ -53,5 +53,6 @@ const rockBands = [
     'Nightwish',
     'Seether',
     'Keane',
-    'Bad Omens'
+    'Bad Omens',
+    'Motley Crue'
 ];
