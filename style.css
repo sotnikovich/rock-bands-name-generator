@@ -1,3 +1,7 @@
+body {
+    background-color: gray;
+}
+
 .content {
     display: flex;
     flex-direction: column;
@@ -9,6 +13,10 @@
     height: 150px;
     border: 0;
     border-radius: 10px;
+}
+
+.button:hover {
+    cursor: pointer;
 }
 
 .flame {
